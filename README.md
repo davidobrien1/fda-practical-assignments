@@ -25,24 +25,24 @@ Search terms used -
 - [] 
 
 **2 - Plot the interesting aspects of the datasets**
-- [] 
-- [] 
-- []
-- []
-- []
+- [] Create simple plots using matplotlib.pyplot
+- [] Look at data to see what model best fits
+- [] Fitting the model
+- [] Best fit line
+- [] Normal distribution
 
 
 **3 - Calculate the descriptive statistics of the variables in the dataset**
-- [] 
-- [] 
-- [] 
+- [] summary statistics
+- [] Calculating the cost
+- [] mimimising the cost
 - [] 
 - [] 
 - [] 
 
 **4 - Explain why the dataset is interesting, referring to the plots and statistics**
-- []
-- []
+- [] 
+- [] if given the x and y values, can you predict what category they fall into?
 - []
 - []
 
